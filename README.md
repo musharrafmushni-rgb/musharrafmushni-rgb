@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">## 👨‍💻 About Me<br><br>Hi! I'm an aspiring<b> Full Stack Developer</b> and a passionate <b>Web Development Learner</b>. I enjoy building modern, responsive, and user-friendly web applications while continuously improving my skills in both frontend and backend development.<br><br>🌱 Currently learning and improving:<br>- Frontend Development (HTML, CSS, JavaScript, React)<br>- Backend Development (Node.js, Express)<br>- Databases (MongoDB, MySQL)<br>- Full Stack Web Application Development<br><br>💡 Interested in:<br>- Web Development<br>- UI/UX Design<br>- Full Stack Projects<br>- Learning New Technologies<br><br>🚀 Goal:<br>To become a skilled Full Stack Developer and build impactful, real-world web applications.<br><br>📫 Always open to learning, collaboration, and new opportunities!</p>
+<p align="center"><br><br>Hi! I'm an aspiring<b> Full Stack Developer</b> and a passionate <b>Web Development Learner</b>. I enjoy building modern, responsive, and user-friendly web applications while continuously improving my skills in both frontend and backend development.<br><br>🌱 Currently learning and improving:<br>- Frontend Development (HTML, CSS, JavaScript, React)<br>- Backend Development (Node.js, Express)<br>- Databases (MongoDB, MySQL)<br>- Full Stack Web Application Development<br><br>💡 Interested in:<br>- Web Development<br>- UI/UX Design<br>- Full Stack Projects<br>- Learning New Technologies<br><br>🚀 Goal:<br>To become a skilled Full Stack Developer and build impactful, real-world web applications.<br><br>📫 Always open to learning, collaboration, and new opportunities!</p>
 
 ###
 
